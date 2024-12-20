@@ -1,0 +1,2 @@
+# Swift: Missing Parameter Labels Bug
+This repository demonstrates a common error in Swift: forgetting to include parameter labels when calling functions with multiple parameters.  The code in `bug.swift` shows the incorrect usage, leading to a compile-time error. The corrected version is in `bugSolution.swift`.
